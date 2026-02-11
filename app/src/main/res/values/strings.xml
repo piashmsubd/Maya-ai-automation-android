@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Maya AI</string>
+    <string name="accessibility_service_description">Maya AI Accessibility Service enables UI automation, allowing Maya to interact with apps, read screen content, and perform actions on your behalf.</string>
+    
+    <!-- Permission Messages -->
+    <string name="permission_audio_rationale">Microphone access is required for voice commands and wake word detection.</string>
+    <string name="permission_sms_rationale">SMS access is required to read and send messages on your behalf.</string>
+    <string name="permission_contacts_rationale">Contacts access is required to make calls and send messages by name.</string>
+    <string name="permission_phone_rationale">Phone access is required to make and manage calls.</string>
+    <string name="permission_camera_rationale">Camera access is required for photo capture and video recording.</string>
+    
+    <!-- Chat Screen -->
+    <string name="chat_input_hint">Type a message...</string>
+    <string name="chat_voice_hint">Tap to speak</string>
+    <string name="chat_send">Send</string>
+    
+    <!-- Settings -->
+    <string name="settings_general">General Settings</string>
+    <string name="settings_voice">Voice Settings</string>
+    <string name="settings_ai">AI Provider</string>
+    <string name="settings_automation">Automation</string>
+    <string name="settings_advanced">Advanced</string>
+    
+    <string name="setting_maya_active">Maya Active</string>
+    <string name="setting_maya_active_desc">Enable Maya AI assistant</string>
+    
+    <string name="setting_wake_word">Wake Word Detection</string>
+    <string name="setting_wake_word_desc">Listen for \"Hey Maya\"</string>
+    
+    <string name="setting_tts">Text-to-Speech</string>
+    <string name="setting_tts_desc">Enable voice responses</string>
+    
+    <string name="setting_auto_read_sms">Auto-read SMS</string>
+    <string name="setting_auto_read_sms_desc">Read incoming SMS aloud</string>
+    
+    <string name="setting_floating_bubble">Floating Bubble</string>
+    <string name="setting_floating_bubble_desc">Show floating assistant bubble</string>
+    
+    <string name="setting_auto_start">Auto-start on Boot</string>
+    <string name="setting_auto_start_desc">Start Maya when device boots</string>
+    
+    <string name="setting_root_access">Root Access</string>
+    <string name="setting_root_access_desc">Enable root shell access</string>
+    
+    <!-- AI Providers -->
+    <string name="ai_provider_openai">OpenAI</string>
+    <string name="ai_provider_llama">LLaMA Local</string>
+    <string name="ai_provider_letta">Letta.ai</string>
+    <string name="ai_provider_opencode">OpenCode Zen</string>
+    <string name="ai_provider_cartesia">Cartesia AI</string>
+    
+    <!-- Notifications -->
+    <string name="notification_voice_assistant">Maya AI Voice Assistant</string>
+    <string name="notification_voice_assistant_desc">Voice assistant is running</string>
+    <string name="notification_floating_bubble">Maya AI Floating Bubble</string>
+    <string name="notification_floating_bubble_desc">Floating bubble is active</string>
+    
+    <!-- Voice Responses -->
+    <string name="voice_listening">Listening...</string>
+    <string name="voice_processing">Processing...</string>
+    <string name="voice_speaking">Speaking...</string>
+    <string name="voice_error">Sorry, I encountered an error</string>
+    
+    <!-- Actions -->
+    <string name="action_toggle_maya">Toggle Maya</string>
+    <string name="action_start_listening">Start Listening</string>
+    <string name="action_stop_listening">Stop Listening</string>
+</resources>

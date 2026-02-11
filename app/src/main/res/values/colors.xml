@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary_purple">#9C27B0</color>
+    <color name="primary_blue">#2196F3</color>
+    <color name="primary_dark">#5E35B1</color>
+    
+    <!-- Secondary Colors -->
+    <color name="secondary_purple">#AB47BC</color>
+    <color name="secondary_blue">#42A5F5</color>
+    
+    <!-- Background Colors -->
+    <color name="background_dark">#0A0A0F</color>
+    <color name="surface_dark">#1A1A2E</color>
+    <color name="surface_variant_dark">#252540</color>
+    
+    <!-- Text Colors -->
+    <color name="on_primary_light">#FFFFFF</color>
+    <color name="on_background_light">#E8E8F0</color>
+    <color name="on_surface_light">#E0E0E8</color>
+    
+    <!-- Accent Colors -->
+    <color name="accent_cyan">#00BCD4</color>
+    <color name="accent_pink">#E91E63</color>
+    <color name="accent_green">#4CAF50</color>
+    
+    <!-- System Colors -->
+    <color name="error_red">#CF6679</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>

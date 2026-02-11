@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules>
+    <cloud-backup>
+        <include domain="sharedpref" path="." />
+        <include domain="database" path="." />
+        <include domain="file" path="." />
+        <exclude domain="sharedpref" path="encrypted_prefs" />
+    </cloud-backup>
+</data-extraction-rules>
