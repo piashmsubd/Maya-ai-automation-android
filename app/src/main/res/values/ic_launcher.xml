@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Fallback launcher icon drawable -->
+    <drawable name="ic_launcher">@drawable/ic_launcher_foreground</drawable>
+    <drawable name="ic_launcher_round">@drawable/ic_launcher_foreground</drawable>
+</resources>

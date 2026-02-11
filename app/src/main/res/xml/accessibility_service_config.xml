@@ -10,4 +10,4 @@
     android:description="@string/accessibility_service_description"
     android:notificationTimeout="100"
     android:packageNames="@null"
-    android:settingsActivity="com.maya.ai.presentation.settings.SettingsActivity" />
+    android:settingsActivity="com.maya.ai.presentation.main.MainActivity" />
